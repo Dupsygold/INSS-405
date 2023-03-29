@@ -7,3 +7,4 @@ print("sum:",sum)
 average=(sum)/9
 print("final average",average)
 
+#code
